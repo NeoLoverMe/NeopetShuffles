@@ -21,7 +21,9 @@ Instructions
 3. You will first have to manually copy paste Listings from the neoboards into the listings.txt file
 
 ```
-Please have them format listings in this format, the code accepts extra info at the end of the listing but the keywords are Listing, the tiers (T9), and the @username
+Please have them format listings in this format, the code accepts extra
+info at the end of the listing but the keywords are
+Listing, the tiers (T9), and the @username
 
 Listing:
 

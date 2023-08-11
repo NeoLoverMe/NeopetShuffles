@@ -19,6 +19,18 @@ Instructions
 1. In your terminal, make sure you have python3 installed
 2. Git clone this project
 3. You will first have to manually copy paste Listings from the neoboards into the listings.txt file
+
+```
+Please have them format listings in this format, the code accepts extra info at the end of the listing but the keywords are Listing, the tiers (T9), and the @username
+
+Listing:
+
+Example - UC Plushie Gnorbu (T9)
+Example2 - UC Faerie Kyrii (T3) No pass
+
+@username
+```
+
 4. Then to run the code use the command
 
 ```
@@ -62,7 +74,7 @@ Example - UC Plushie Gnorbu (T9)
 
 Listing:
 
-Example2 - UC Faerie Kyrii (T3)
+Example2 - UC Faerie Kyrii (T3) No pass
 
 @username2
 ```
@@ -73,7 +85,7 @@ will output into the Listings portion
 <br>
 <br>
 
-Example2 - UC Faerie Kyrii (T3)
+Example2 - UC Faerie Kyrii (T3) No pass
 
 <br>
 
